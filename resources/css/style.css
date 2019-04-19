@@ -2,10 +2,20 @@ Body{
 	font-family: Verdana;
 	background-color: black;
 	text-align: center;
+	color: white;
 }
 h1{
 	font-weight: normal;
 	font-size: 50 px;
-	color: white;
-	
+}
+h3
+{
+	color:Aquamarine;
+	font-size: 16px ;
+
+}
+.footer
+{
+	color: grey;
+	text-align: right;
 }
